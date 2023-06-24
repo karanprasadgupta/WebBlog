@@ -17,6 +17,9 @@ WebBlog is a web application allowing users to create and publish their blogs. I
 ## Demo
 Check out the live demo of the WebBlog  Web-App: https://webog.onrender.com/
 
+![Demo Image](./images/demo1.png)
+![Demo Image](./images/demo2.png)
+
 ## Features
 - **Blog Creation**: Users can create and customize their own blogs with a title and description.
 - **Blog Management**: Users can also view a list of all their posts and navigate to individual posts for reading.
